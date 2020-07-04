@@ -1,0 +1,3 @@
+D:\UProjects\GsPlugins\Plugins\ParametresDesJeux\Intermediate\Build\Win32\UE4\Development\ParametresDesJeux\Definitions.ParametresDesJeux.h
+D:/UProjects/GsPlugins/Plugins/ParametresDesJeux/Source/ParametresDesJeux/Private/ParametresDesJeux.cpp
+D:\UProjects\GsPlugins\Plugins\ParametresDesJeux\Source\ParametresDesJeux\Public\ParametresDesJeux.h

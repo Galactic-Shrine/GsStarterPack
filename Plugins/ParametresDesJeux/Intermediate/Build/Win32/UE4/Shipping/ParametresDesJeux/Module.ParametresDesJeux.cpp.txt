@@ -1,0 +1,8 @@
+D:\UProjects\GsPlugins\Plugins\ParametresDesJeux\Intermediate\Build\Win32\UE4\Shipping\ParametresDesJeux\Definitions.ParametresDesJeux.h
+D:/UProjects/GsPlugins/Plugins/ParametresDesJeux/Source/ParametresDesJeux/Private/ParametresDesJeux.cpp
+D:\UProjects\GsPlugins\Plugins\ParametresDesJeux\Source\ParametresDesJeux\Public\ParametresDesJeux.h
+D:/UProjects/GsPlugins/Plugins/ParametresDesJeux/Source/ParametresDesJeux/Private/ParametresDesJeuxBPLibrary.cpp
+D:\UProjects\GsPlugins\Plugins\ParametresDesJeux\Source\ParametresDesJeux\Public\ParametresDesJeuxBPLibrary.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\EngineSettings\Classes\GeneralProjectSettings.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win32\UE4\Inc\EngineSettings\GeneralProjectSettings.generated.h
+D:\UProjects\GsPlugins\Plugins\ParametresDesJeux\Intermediate\Build\Win32\UE4\Inc\ParametresDesJeux\ParametresDesJeuxBPLibrary.generated.h

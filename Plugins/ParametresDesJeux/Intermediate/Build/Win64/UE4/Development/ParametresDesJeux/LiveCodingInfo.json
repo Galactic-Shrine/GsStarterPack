@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ParametresDesJeux.cpp.obj": [
+			"ParametresDesJeux.cpp.obj",
+			"ParametresDesJeuxBPLibrary.cpp.obj"
+		],
+		"Module.ParametresDesJeux.gen.cpp.obj": [
+			"ParametresDesJeux.init.gen.cpp.obj",
+			"ParametresDesJeuxBPLibrary.gen.cpp.obj"
+		]
+	}
+}
